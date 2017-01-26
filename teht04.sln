@@ -23,6 +23,14 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "teht05", "teht05\teht05.csp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "teht06", "teht06\teht06.csproj", "{FE1451F2-5B58-4BC1-A57C-E8DE6775B84B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "teht 07", "teht 07\teht 07.csproj", "{9C14BD95-DF6C-40EE-B29A-E7608316F022}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "teht12", "teht12\teht12.csproj", "{EE062889-A778-4A0D-AFBE-DCB1C0498A36}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "tehtava 18", "tehtava 18\tehtava 18.csproj", "{D3932D1E-7485-4E75-A26E-FED00766FAF0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "teht16", "teht16\teht16.csproj", "{0477A1C4-9625-45F4-B0CB-F555119BB0D7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -69,6 +77,22 @@ Global
 		{FE1451F2-5B58-4BC1-A57C-E8DE6775B84B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FE1451F2-5B58-4BC1-A57C-E8DE6775B84B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FE1451F2-5B58-4BC1-A57C-E8DE6775B84B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9C14BD95-DF6C-40EE-B29A-E7608316F022}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9C14BD95-DF6C-40EE-B29A-E7608316F022}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9C14BD95-DF6C-40EE-B29A-E7608316F022}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9C14BD95-DF6C-40EE-B29A-E7608316F022}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EE062889-A778-4A0D-AFBE-DCB1C0498A36}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EE062889-A778-4A0D-AFBE-DCB1C0498A36}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EE062889-A778-4A0D-AFBE-DCB1C0498A36}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EE062889-A778-4A0D-AFBE-DCB1C0498A36}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D3932D1E-7485-4E75-A26E-FED00766FAF0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D3932D1E-7485-4E75-A26E-FED00766FAF0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D3932D1E-7485-4E75-A26E-FED00766FAF0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D3932D1E-7485-4E75-A26E-FED00766FAF0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0477A1C4-9625-45F4-B0CB-F555119BB0D7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0477A1C4-9625-45F4-B0CB-F555119BB0D7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0477A1C4-9625-45F4-B0CB-F555119BB0D7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0477A1C4-9625-45F4-B0CB-F555119BB0D7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
